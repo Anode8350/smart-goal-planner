@@ -1,0 +1,13 @@
+{
+  "goals": [
+    {
+      "id": "ed49",
+      "name": "Hunting",
+      "targetAmount": 200,
+      "category": "fun",
+      "deadline": "2026-11-22",
+      "savedAmount": 250,
+      "createdAt": "2025-07-20"
+    }
+  ]
+}
